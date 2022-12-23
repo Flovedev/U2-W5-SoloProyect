@@ -56,18 +56,16 @@ header {
     background-color: #FFC017;
     display: flex;
     border-bottom: 1px solid;
-    justify-content: flex-end;
-
+    justify-content: space-between;
 }
 
 header>div:first-of-type {
     width: 700px;
-    height: 500px;
+    margin-left: 30vh;
 }
 
 .crazyMs {
-    min-height: 40vh;
-    min-width: 40vh;
+    width: 60vh;
 }
 
 header h2 {
